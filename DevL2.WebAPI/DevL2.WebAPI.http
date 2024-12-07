@@ -1,0 +1,6 @@
+@DevL2.WebAPI_HostAddress = http://localhost:5195
+
+GET {{DevL2.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
